@@ -1,0 +1,8 @@
+applications:
+- name: obsolute
+  memory: 256M
+  instances: 1
+  host: obsolute
+  domain: eu-gb.mybluemix.net
+  disk_quota: 1024M
+  path: .

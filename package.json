@@ -1,0 +1,21 @@
+{
+  "name": "obsolute",
+  "version": "1.0.0",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "author": "Hannan Satopay",
+  "license": "default",
+  "description": "",
+  "dependencies": {
+    "Base64": "^1.0.1",
+    "botbuilder": "^3.8.4",
+    "dotenv": "^2.0.0",
+    "imgurwrap": "0.0.4",
+    "regression": "^2.0.0",
+    "request": "^2.83.0",
+    "requestify": "^0.2.5",
+    "restify": "^5.0.1"
+  }
+}
